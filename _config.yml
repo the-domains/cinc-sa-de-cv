@@ -1,0 +1,28 @@
+name: CINC SA de CV
+favicon: null
+layout_spectrum: 0.1654660734347999
+typography_spectrum: 0.25268201623111963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6908189400564879
+  lightness: 0.3946789079345763
+  saturation: 0.06454449938610196
+  rhythmicContrast: 0.574009392876178
+purpose: []
